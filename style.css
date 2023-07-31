@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-top: 50px;
+    border-radius: 15px 15px;
+    border: 1px solid #656865;
+}
+
+.form {
+    padding: 20px 20px 20px 20px;
+}
+
+.titulo {
+    margin-top: 0px;
+    font-weight: bold;
+}
+
+.imagenes {
+    width: 40px;
+    height: 25px;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.form-check {
+    overflow: hidden;
+}
+
+.content {
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+   }
+
+.tarjetas {
+    overflow: hidden;
+    border-radius: 5px 5px;
+    border: 1px solid #656865;
+    background-color: #656865;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 0px;
+    width: 347px;
+}
